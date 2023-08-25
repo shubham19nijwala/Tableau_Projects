@@ -6,4 +6,5 @@
 
 
 
-![download](https://github.com/shubham19nijwala/Tableau_Projects/assets/130289158/b9acc439-34ec-401e-b886-26ec08f851c3)
+![Data-Visualization-with-Tableau-1024x576](https://github.com/shubham19nijwala/Tableau_Projects/assets/130289158/a5bd6493-1d75-46e6-866b-e59e8e6e666f)
+
